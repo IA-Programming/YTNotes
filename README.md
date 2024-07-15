@@ -1,10 +1,10 @@
-# YT Notes: Transform Your YouTube Experience
+# 🌟YT Notes: Transform Your YouTube Experience
 
-## Build with Low-Code Tool: Langflow
+## 🛠️ Build with Low-Code Tool: Langflow
 
 ![YT Notes Logo](logo.jpeg)
 
-## Table of Contents
+## 📑 Table of Contents
 - [Introduction](#introduction)
 - [Problem](#problem)
 - [Solution](#solution)
@@ -14,15 +14,15 @@
 - [Roadmap](#roadmap)
 - [Hackathon Details](#hackathon-details)
 
-## Introduction
+## 📖 Introduction
 
 YT Notes is a Chrome extension that allows users to save and chat with their YouTube videos, enhancing information retention and accessibility. Developed during the Langflow Hackathon in July 2024, our project aims to revolutionize how people interact with educational content on YouTube.
 
-## Problem
+## ❗ Problem
 
 According to recent data, 92% of people watch YouTube videos for information and knowledge. However, many users struggle to retain and reference important information from these videos. With the vast amount of content available, it can be challenging to remember key points or locate specific details later, leading to wasted time searching for videos or rewatching content.
 
-## Solution
+## 💡 Solution
 
 YT Notes addresses these challenges by providing a seamless extension that allows users to:
 - Save transcriptions of YouTube videos directly into a database
@@ -31,22 +31,22 @@ YT Notes addresses these challenges by providing a seamless extension that allow
 
 This enhances retention and streamlines the learning process, making information easily accessible and actionable.
 
-## Technologies
+## 🧰 Technologies
 
 - [Langflow]()
 - LiteLLM
 - Chrome Extension Development
 - Backend Technologies (specifics to be added)
 
-## Team
+## 👥 Team
 
 BlazzAI:
 - IA Programming: AI developer specialized in LLMs
 - Blazzbyte: Full Stack Web Developer
 
-## Installation
+## 🛠️ Installation
 
-### previous steps
+### 📋 Previous steps
 
 1. Clone the Repository
 - Open your terminal or command prompt.
@@ -63,33 +63,33 @@ git clone https://github.com/IA-Programming/YTNotes.git
 cd YTNotes
 ```
 
-### Setting up the Backend
+### ⚙️ Setting up the Backend
 
  - **Installing with pip**
- 1.- installing the library
+ 1. Install the library
  ```bash
 pip install -U langflow
  ```
-2.- run the fronend UI
+2. Run the fronend UI
 ```bash
 python -m langflow run --no-store
 ```
  - **Installing with conda**
-1.- installing the environment
+1. Install the environment
 ```bash
 conda env create -f environment.yml
 ```
-2.- activating the environment
+2. Activate the environment
 ```bash
 conda activate langflow
 ```
 > **_Note:_** Now you need to follow the same steps for when running with pip
 
-### Download the chrome extension
+### 🌐 Download the chrome extension
 
 [Here you can download the extension to try it!]()
 
-## Roadmap
+## 🗺️ Roadmap
 
 1. Gather feedback from the demo
 2. Improve the application based on feedback
@@ -97,7 +97,7 @@ conda activate langflow
 4. Monitor and improve efficiency
 
 
-### Hackathon Details
+### 🚀 Hackathon Details
 
 - Application of Technology
 - Presentation
