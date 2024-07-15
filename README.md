@@ -70,7 +70,7 @@ cd YTNotes
  ```bash
 pip install -U langflow
  ```
-2. Run the fronend UI
+2. Run the frontend UI
 ```bash
 python -m langflow run --no-store
 ```
